@@ -4,3 +4,12 @@
 + Linear data structure
 + add = enqueue,offer()
 + remove = dequeue, poll()
+
+
++ + Uses of queue
++ Used in Keyboard Buffer
++ Printer Queue
++ Used in LinkedLists
+
+# Priority Queue
++ A FIFO data structure that serves elements with the highest priorities first before elements with lower priorities.
